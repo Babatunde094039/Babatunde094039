@@ -18,7 +18,7 @@
   </a>
 </div>
   <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=teesofttech&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Babatunde094039&style=flat-square&color=blue" alt=""/>
   </div>
   
  
@@ -62,9 +62,9 @@ Babatunde has over 8 years of professional experience in software engineering, w
 
   ### :fire: My Stats :
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=teesofttech&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Babatunde094039&theme=dark)](https://git.io/streak-stats)
   
-  ![Babatunde's GitHub stats](https://github-readme-stats.vercel.app/api?username=teesofttech&show_icons=true&theme=radical)
+  ![Babatunde's GitHub stats](https://github-readme-stats.vercel.app/api?username=Babatunde094039&show_icons=true&theme=radical)
  
  
   </div>
